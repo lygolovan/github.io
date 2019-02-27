@@ -1,2 +1,2 @@
-# github.io
+# lygolovan.github.io
 Мой первый хостинг
