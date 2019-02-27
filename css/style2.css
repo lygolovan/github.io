@@ -1,9 +1,0 @@
-ul:first-child li:first-child{
-color: red;
-}
-ul:first-child li:last-child{
-color: red;
-}
-ul:last-child li:nth-child(odd){
-color: blue;
-}
