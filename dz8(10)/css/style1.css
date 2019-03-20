@@ -1,0 +1,22 @@
+section{
+	display: flex;
+	border: 2px solid red;
+}
+.st{
+	flex: 1;
+	border: 2px solid red;
+}
+.st:first-child{
+	display:flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+.f1{
+
+	width: 50%;
+ }
+.f1 img{
+	width: 100%;
+	height: 100%;
+}
