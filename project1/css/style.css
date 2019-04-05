@@ -1,0 +1,61 @@
+/* Header, footer */
+
+body{
+	background: #d8d8d8;
+}
+header, footer {
+  background-color: #0B0E30;
+}
+
+.navbar-brand {
+font-size: 20px;
+font-weight: 600;
+}
+.nav-link, .dropdown-item {
+font-size: 18px;
+font-weight: 600;
+text-transform: uppercase;
+}
+nav li {
+padding: 0 18px;
+
+}
+ li:hover  {
+border-radius: 5px;
+background-color: rgb(217,149,148,0.2); 
+
+}
+
+.blog{
+	
+	min-height:  580px;
+	margin-bottom: 10px;
+}
+.b {
+background-color:rgb(24, 24, 25,0.4);	
+}
+
+
+/* Social icons */
+i {
+color: #fff;
+padding: 0 12px;
+}
+
+@media screen and(max-width: 500px) {
+	.navbar-brand{
+		font-size: 15px;
+	}
+	h1 {
+	font-size: 1.2rem;
+	}
+	h2 {
+	font-size: 1rem;
+	}
+	h3 {
+	font-size: .8rem;
+	}
+	p {
+	font-size: .6rem;
+	}і
+}
